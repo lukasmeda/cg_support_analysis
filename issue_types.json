@@ -1,0 +1,700 @@
+{
+    "Standardized_Issue_Tags": [
+      {
+        "tag_name": "User Role Management",
+        "definition": "Issues related to changing or accessing administrative and user roles within the system.",
+        "raw_tags": [
+          "user role change issue",
+          "admin role unavailable",
+          "Account->Manage business section",
+          "Users tab",
+          "Administrator role inactive",
+          "user role management",
+          "director's information access",
+          "user role adjustment",
+          "accounting role limitation"
+        ]
+      },
+      {
+        "tag_name": "Wrong Cryptocurrency/Network Sent",
+        "definition": "Funds sent using the incorrect cryptocurrency or blockchain network, leading to payments not being detected or requiring complex recovery/refund processes.",
+        "raw_tags": [
+          "wrong currency",
+          "payment not detected",
+          "wrong currency detected",
+          "refund process",
+          "wrong network detected",
+          "unsupported currency",
+          "USDT on Ethereum",
+          "CoinGate WordPress WooCommerce plugin",
+          "USDT to fiat payouts stopped",
+          "cbBTC",
+          "USDC",
+          "Ethereum network",
+          "unsupported currency",
+          "lost funds",
+          "wrong wallet address",
+          "transaction hash",
+          "CoinGate UI",
+          "2FA login",
+          "Google Authenticator",
+          "missing CoinGate account",
+          "wrong network detected",
+          "USDT conversion failure"
+        ]
+      },
+      {
+        "tag_name": "Email Delivery Issues",
+        "definition": "Problems with receiving emails from the platform, including notifications, verification links, or communication updates.",
+        "raw_tags": [
+          "email not received",
+          "spam/junk folders",
+          "merchant refund",
+          "email notifications not sent",
+          "email address field missing",
+          "order details",
+          "account confirmation email not received",
+          "sandbox account signup issue",
+          "email sending system",
+          "verification mail not received",
+          "email rejection",
+          "soft bounced",
+          "external spam filter",
+          "refund rejected",
+          "missing email",
+          "email address is wrong",
+          "previous one expired"
+        ]
+      },
+      {
+        "tag_name": "SSL/Connection Errors",
+        "definition": "Technical errors related to secure socket layer (SSL) connections and server communication.",
+        "raw_tags": [
+          "SSL connection error",
+          "error:14090086",
+          "SSL3_GET_SERVER_CERTIFICATE:certificate verify failed",
+          "SSLv3 alert handshake failure",
+          "OpenSSL error",
+          "certificate verification failed",
+          "Network error [errno 28]",
+          "Failed to connect to api.coingate.com",
+          "WHMCS theme update",
+          "API level",
+          "whitelist my IP"
+        ]
+      },
+      {
+        "tag_name": "UI/Button Functionality Issues",
+        "definition": "Problems with buttons or elements on the user interface not working as expected, leading to navigation or submission difficulties.",
+        "raw_tags": [
+          "add new entry button error",
+          "report feedback button issue",
+          "error message on top",
+          "Continue Verification button not working",
+          "refund confirmation placeholders",
+          "form display issue",
+          "Live ID",
+          "document expiration date",
+          "nothing happends",
+          "Chatbot",
+          "no button",
+          "We're offline",
+          "live chat support widget is broken",
+          "looping",
+          "«contatta l'assistenza» button",
+          "support agent"
+        ]
+      },
+      {
+        "tag_name": "Withdrawal Discrepancy/Delay",
+        "definition": "Issues where withdrawals are delayed, amounts are incorrect, or payment details are missing/wrong.",
+        "raw_tags": [
+          "withdrawal stuck",
+          "wrong BIC/SWIFT",
+          "missing funds",
+          "bank transfer fees",
+          "transaction cancelled by bank",
+          "USD withdrawal discrepancy",
+          "GBP withdrawal issue",
+          "missing payments",
+          "withdrawal not received",
+          "payout notification discrepancy",
+          "withdrawal not detected",
+          "USDT withdrawal issue",
+          "withdrawal cancelled",
+          "withdrawal bounced back",
+          "bank rejection",
+          "withdrawal stuck",
+          "minimum withdrawal amount",
+          "system error when trying to withdraw",
+          "withdrawals not officially suspended",
+          "manual payout processing",
+          "personal account verification",
+          "withdrawal requests not possible",
+          "withdrawal request",
+          "polygon address"
+        ]
+      },
+      {
+        "tag_name": "Report/Statement Generation Issues",
+        "definition": "Problems with downloading or generating financial reports, invoices, or statements from the platform.",
+        "raw_tags": [
+          "withdrawal report",
+          "report download issue",
+          "Monthly statement unavailable",
+          "system changes",
+          "statements from May 2024",
+          "VAT invoices",
+          "dashboard reports",
+          "download reports",
+          "closed account",
+          "orders report",
+          "transactions report",
+          "CSV file"
+        ]
+      },
+      {
+        "tag_name": "Payment Status/Hold Issues",
+        "definition": "Problems with the status of payments, including invalid statuses, temporary holds, or payments not being processed as expected.",
+        "raw_tags": [
+          "payment marked as invalid",
+          "transaction suspended",
+          "invoice not processed",
+          "bank transfer on hold",
+          "invalid payment status",
+          "ticket closed automatically",
+          "payment status invalid",
+          "temporary hold on funds",
+          "payment marked as invalid",
+          "transaction id confirmed on blockchain",
+          "not paid status",
+          "order suspended",
+          "payment confirmed but not PAID status",
+          "order marked as paid",
+          "payment unavailable",
+          "invoice",
+          "deposit flagged as rejected",
+          "CoinGate order ID",
+          "transaction hash"
+        ]
+      },
+      {
+        "tag_name": "Live ID Verification Technical Issues",
+        "definition": "Technical problems specifically within the Live ID verification step, such as errors during the process, barcode loops, or document upload failures within that specific flow.",
+        "raw_tags": [
+          "error 403",
+          "Live ID verification step",
+          "verification process stuck",
+          "barcode loop",
+          "document upload failure",
+          "payment processing settings",
+          "wallet address generation",
+          "underpayment handling",
+          "Live ID verification unsuccessful",
+          "maximum number of attempts reached",
+          "poor image quality",
+          "document rejection",
+          "Live ID verification",
+          "USDT regulatory changes",
+          "USDC wallet address",
+          "passport picture rejection",
+          "ID verification failure",
+          "unsupported ID card",
+          "Live ID verification",
+          "QR link not working",
+          "SMS link not working",
+          "Onfido system",
+          "Russian passport",
+          "permanent residence permit ID card",
+          "unsupported document type",
+          "Live ID rejected",
+          "name and surname mismatch",
+          "passport",
+          "Live Check",
+          "70%"
+        ]
+      },
+      {
+        "tag_name": "Refund Status/Process",
+        "definition": "Issues related to the status of a refund (e.g., pending, stuck), delays in processing, or the need for specific verification for refunds.",
+        "raw_tags": [
+          "refund status pending",
+          "live ID verification",
+          "refund status stuck",
+          "processing status",
+          "refund not processed",
+          "second transaction not refunded",
+          "refund address",
+          "refund process",
+          "identity verification link",
+          "refund not received",
+          "transaction confirmation"
+        ]
+      },
+      {
+        "tag_name": "Document Upload/Portal Issues",
+        "definition": "General problems encountered when uploading documents to the platform, including system errors, limitations, or difficulties with specific fields/options.",
+        "raw_tags": [
+          "Uploaded Docs section",
+          "Account Settings - Uploaded Files section",
+          "digitally signed documents",
+          "Comfort Letter",
+          "file attachment limitation",
+          "support ticket system",
+          "Merchant Verification stuck",
+          "document upload failure",
+          "Uploaded Documents section",
+          "Verification section",
+          "notifications",
+          "verification portal",
+          "drop down menu missing UK",
+          "ID upload issue",
+          "mandatory fields confusion",
+          "system not allowing re-upload",
+          "verification process stuck",
+          "ticketing system error",
+          "verification form",
+          "uploaded docs section",
+          "bank statements",
+          "KYC verification",
+          "verification system",
+          "Account Settings - Verification",
+          "Proof of address rejected",
+          "Bank statement rejected",
+          "file size limit",
+          "PDF format error"
+        ]
+      },
+      {
+        "tag_name": "API/Integration Callback Errors",
+        "definition": "Specific errors related to API callbacks and their integration with external systems, often resulting in order status mismatches.",
+        "raw_tags": [
+          "callback not updating order status",
+          "error 500",
+          "Prestashop module v.2.0.0",
+          "order ID vs cart ID mismatch",
+          "server failed to receive callback",
+          "callback not sent",
+          "Cart cannot be loaded or an order has already been placed using this cart",
+          "Prestashop module",
+          "callback api calls",
+          "callback request",
+          "secret key",
+          "https://api-sandbox.coingate.com/v2/orders",
+          "create-order",
+          "get-order",
+          "payment-callback",
+          "Prestashop plugin",
+          "version 1.7.7",
+          "Désolé, je n'ai pas pu répondre à ta question"
+        ]
+      },
+      {
+        "tag_name": "API Prefill/Object Issues",
+        "definition": "Problems with prefilling information in API requests or with the structure/validation of shopper objects in API calls.",
+        "raw_tags": [
+          "shopper object",
+          "api-request",
+          "prefill issue",
+          "CoinGate Invoice",
+          "API documentation"
+        ]
+      },
+      {
+        "tag_name": "Deposit/Conversion Limits",
+        "definition": "Issues related to limits imposed on cryptocurrency deposits or conversions.",
+        "raw_tags": [
+          "deposit limit",
+          "conversion limit",
+          "$10,000 limit"
+        ]
+      },
+      {
+        "tag_name": "Country Not Supported",
+        "definition": "Issues where a user's country is not supported for verification or services, requiring manual processes or denying service.",
+        "raw_tags": [
+          "verification process",
+          "country not supported",
+          "manual document upload",
+          "UAE option",
+          "pending verification"
+        ]
+      },
+      {
+        "tag_name": "Beneficiary Creation Errors",
+        "definition": "Errors encountered when attempting to create a new beneficiary, often due to bugs or invalid currency settings.",
+        "raw_tags": [
+          "Error creating beneficiary",
+          "bug",
+          "500 Internal Server Error",
+          "Beneficiary is not valid",
+          "API endpoint",
+          "currency not allowed",
+          "404 error"
+        ]
+      },
+      {
+        "tag_name": "Issue Documentation/Demonstration",
+        "definition": "Requests for or provision of visual or detailed demonstrations of an issue to aid troubleshooting.",
+        "raw_tags": [
+          "video demonstration of issue",
+          "QA investigation"
+        ]
+      },
+      {
+        "tag_name": "Transaction Hash/ID Issues",
+        "definition": "Problems related to finding, confirming, or using transaction hashes or IDs for payments.",
+        "raw_tags": [
+          "transaction hash",
+          "Tron TRC20",
+          "USDT payment",
+          "transaction hash not found"
+        ]
+      },
+      {
+        "tag_name": "Order Validity/Wallet Generation",
+        "definition": "Concerns regarding the validity period of orders, and the automatic generation of wallet addresses for outgoing transactions.",
+        "raw_tags": [
+          "outgoing transactions",
+          "order validity",
+          "wallet address generation",
+          "Send payments functionality",
+          "beneficiary creation"
+        ]
+      },
+      {
+        "tag_name": "Fiat Conversion Issues",
+        "definition": "Problems with converting between fiat currencies, specifically when direct fiat-to-fiat conversion is not available.",
+        "raw_tags": [
+          "USD to EUR conversion",
+          "FIAT to FIAT conversion"
+        ]
+      },
+      {
+        "tag_name": "Empty Invoice/Order",
+        "definition": "Instances where an invoice is generated but shows no payments received, indicating an empty or unprocessed order.",
+        "raw_tags": [
+          "empty invoice",
+          "no payments received"
+        ]
+      },
+      {
+        "tag_name": "Cryptocurrency/Network Selection Flow",
+        "definition": "Issues related to the process of selecting cryptocurrencies and networks within the payment flow or API.",
+        "raw_tags": [
+          "payment flow",
+          "API",
+          "cryptocurrency selection",
+          "network selection"
+        ]
+      },
+      {
+        "tag_name": "Missing USDT Option",
+        "definition": "Problems with the USDT (Tether) cryptocurrency option being unavailable in withdrawal dropdowns or restricted due to conversions.",
+        "raw_tags": [
+          "USDT option missing",
+          "withdrawal dropdown",
+          "USDT conversion restriction",
+          "USDT disabled",
+          "USDT withdrawals",
+          "USDT wallet"
+        ]
+      },
+      {
+        "tag_name": "Transaction Delay",
+        "definition": "Delays in the processing of payments, even after confirmation on the blockchain.",
+        "raw_tags": [
+          "transaction delay",
+          "payment invoice processing"
+        ]
+      },
+      {
+        "tag_name": "Verification Document Issues",
+        "definition": "Problems with the specific documents required for verification, such as tax declarations, bank statements, or proof of address.",
+        "raw_tags": [
+          "verification rejected",
+          "business tax declaration",
+          "document upload",
+          "Proof of Company's Operational Address",
+          "document rejection",
+          "KYC verification",
+          "compliance team",
+          "operational address verification",
+          "Please verify",
+          "verification page",
+          "verification rejected status",
+          "bank statement rejected",
+          "bank statements",
+          "tax declaration",
+          "Proof of address rejected",
+          "KYC submission rejection",
+          "UBO update issue",
+          "Merchant Verification stuck"
+        ]
+      },
+      {
+        "tag_name": "Account Settings/Notifications",
+        "definition": "Issues related to account settings, specifically with notifications or the display of uploaded documents.",
+        "raw_tags": [
+          "Uploaded Documents section",
+          "Verification section",
+          "notifications"
+        ]
+      },
+      {
+        "tag_name": "Underpaid Order Status",
+        "definition": "Issues specific to orders that were underpaid, affecting their status and requiring a refund or further action.",
+        "raw_tags": [
+          "underpaid",
+          "expired order"
+        ]
+      },
+      {
+        "tag_name": "Canceled Order/Refund Link",
+        "definition": "Orders that have been canceled and issues with the provision or functionality of a refund link.",
+        "raw_tags": [
+          "Canceled status",
+          "unable to approve order",
+          "refund link"
+        ]
+      },
+      {
+        "tag_name": "404 Error/Ticket Access",
+        "definition": "General 404 errors, particularly when affecting ticket access or document upload functionality.",
+        "raw_tags": [
+          "404 error",
+          "ticket access issue"
+        ]
+      },
+      {
+        "tag_name": "Currency Conversion/Balance Display",
+        "definition": "Issues related to the display of converted currency balances or failures in the conversion process.",
+        "raw_tags": [
+          "Invoice Currency Settings",
+          "conversion failure",
+          "USDT balance not converted to BTC"
+        ]
+      },
+      {
+        "tag_name": "Missing Transaction Data/History",
+        "definition": "Issues where transaction or withdrawal history is incomplete or missing from the dashboard.",
+        "raw_tags": [
+          "Balances section not displaying",
+          "Transaction history missing",
+          "Withdrawal history missing",
+          "Dashboard reports",
+          "Payout settings",
+          "unknown status",
+          "missing conversation",
+          "account verification expired"
+        ]
+      },
+      {
+        "tag_name": "Email Update Issues",
+        "definition": "Problems with updating the user's email address through the dashboard.",
+        "raw_tags": [
+          "unable to update email from Dashboard"
+        ]
+      },
+      {
+        "tag_name": "Account Limitation/Verification Status",
+        "definition": "When an account is limited due to an incomplete or unverified status, preventing access to funds or full functionality.",
+        "raw_tags": [
+          "account is limited",
+          "cannot withdraw funds",
+          "verification not completed",
+          "account is limited",
+          "verification"
+        ]
+      },
+      {
+        "tag_name": "Payout Setting Issues",
+        "definition": "Problems with payout settings being canceled or removed from the account.",
+        "raw_tags": [
+          "payout setting canceled",
+          "payout setting removed"
+        ]
+      },
+      {
+        "tag_name": "API Credentials/Integration Tools",
+        "definition": "Issues related to generating or using API credentials and integrating with developer tools.",
+        "raw_tags": [
+          "API credentials",
+          "Integration---Tools"
+        ]
+      },
+      {
+        "tag_name": "Live ID Document Expiration Date UI Error",
+        "definition": "A specific user interface error where the document expiration date cannot be selected beyond a certain year during Live ID verification.",
+        "raw_tags": [
+          "Document Expiration Date",
+          "UX/UI error"
+        ]
+      },
+      {
+        "tag_name": "Verification System Rejection",
+        "definition": "When the verification system repeatedly rejects user data or documents due to format or content issues.",
+        "raw_tags": [
+          "verification system reject",
+          "verification",
+          "Verification rejected",
+          "account verification",
+          "compliance team",
+          "verification page",
+          "We're offline",
+          "inactive support chat"
+        ]
+      },
+      {
+        "tag_name": "Verification Process Delays",
+        "definition": "Extended waiting times for account verification due to internal oversight or high volume of requests.",
+        "raw_tags": [
+          "verification application pending",
+          "internal oversight",
+          "delay in getting back",
+          "verification take too long time",
+          "delay due to the high volume of requests"
+        ]
+      },
+      {
+        "tag_name": "Bank Statement Cancellation",
+        "definition": "Issues related to the cancellation or rejection of bank statements during the verification process.",
+        "raw_tags": [
+          "bank statement cancellation"
+        ]
+      },
+      {
+        "tag_name": "Account Information Access",
+        "definition": "Problems with accessing or viewing account-related documents and information within the settings.",
+        "raw_tags": [
+          "Uploaded Documents",
+          "Account Settings",
+          "Bank statement"
+        ]
+      },
+      {
+        "tag_name": "Unsupported Document Type",
+        "definition": "When a submitted document type for verification is explicitly stated as not supported by the system.",
+        "raw_tags": [
+          "Document type is not supported"
+        ]
+      },
+      {
+        "tag_name": "Identity Verification Process",
+        "definition": "General issues related to the identity verification process, often needing human intervention or clarification.",
+        "raw_tags": [
+          "identity verification process"
+        ]
+      },
+      {
+        "tag_name": "New Ticket Link Not Working",
+        "definition": "A technical issue where the link provided to create a new support ticket is non-functional.",
+        "raw_tags": [
+          "link to the new ticket is not working"
+        ]
+      },
+      {
+        "tag_name": "Verification Status",
+        "definition": "General inquiries or issues about the current status of the user's verification process.",
+        "raw_tags": [
+          "Please verify",
+          "Error Please verify",
+          "verification expired",
+          "verification rejected"
+        ]
+      },
+      {
+        "tag_name": "500 Internal Server Error",
+        "definition": "Generic server-side errors indicating a problem on the server that prevents it from fulfilling a request.",
+        "raw_tags": [
+          "500 error",
+          "InternalServerError",
+          "ERRBADRESPONSE",
+          "500 server error",
+          "fout 500",
+          "api app token"
+        ]
+      },
+      {
+        "tag_name": "Birthdate Mismatch",
+        "definition": "Discrepancies or issues related to the birthdate provided during verification or in account details.",
+        "raw_tags": [
+          "ID verification rejection",
+          "birthdate not changed",
+          "Live ID verification",
+          "birthdate discrepancy"
+        ]
+      },
+      {
+        "tag_name": "Compliance-Related Suspension",
+        "definition": "Orders or transactions suspended due to concerns related to AML, CTF, or Sanctions Regulations, often requiring additional documentation or verification.",
+        "raw_tags": [
+          "order suspended",
+          "compliance-related concerns",
+          "AML",
+          "CTF",
+          "Sanctions Regulations",
+          "refunds",
+          "embargoed countries",
+          "bank transfer on hold",
+          "payment status invalid",
+          "temporary hold on funds",
+          "live ID verification",
+          "Invalid order",
+          "compliance reasons",
+          "success transaction",
+          "suspended order",
+          "compliance team",
+          "account manager",
+          "AML regulations",
+          "AML/CTF regulations",
+          "due diligence process",
+          "30 days exceeded",
+          "ticket closed automatically",
+          "proof of residence",
+          "refund address",
+          "restricted jurisdictions",
+          "Pending status, compliance hold",
+          "invoice not paid status",
+          "transaction visible on blockchain",
+          "order suspended, refund restrictions",
+          "invalid payment status",
+          "ID verification required",
+          "email communication issues",
+          "compliance protocols",
+          "refund, suspended order",
+          "refund wallet address",
+          "unwilling to provide ID documents",
+          "Anti-Money Laundering (AML)",
+          "Counter-Terrorism Financing (CTF)",
+          "Proof of Residential Address",
+          "order status invalid",
+          "Transaction Status Confirmed",
+          "order suspended due to compliance-related concerns",
+          "uncredited deposit",
+          "Tron",
+          "order suspended, proof of residential address required",
+          "Live ID verification required",
+          "refund address required",
+          "transaction suspended",
+          "refund process"
+        ]
+      },
+      {
+        "tag_name": "Duplicate Account/Blocked Funds",
+        "definition": "Issues where an account is blocked or funds are frozen due to the presence of duplicate accounts or pending verification.",
+        "raw_tags": [
+          "verification pending",
+          "account closure request",
+          "blocked funds",
+          "verification required",
+          "duplicate account",
+          "blocked",
+          "bank statement is rejected",
+          "duplicate accounts",
+          "verification rejected",
+          "verification is Pending"
+        ]
+      }
+    ]
+  }
