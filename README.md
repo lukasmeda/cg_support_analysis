@@ -53,7 +53,7 @@ The system operates through a series of automated steps:
 * Cleans and formats conversation data.
 * Categorizes by business type.
 
-### Issue Analysis (`analyze_conversations.py`)
+### Issue Analysis (`analyze_extracted_conversations.py`)
 
 * Uses **AI to analyze conversations**.
 * **Identifies technical issues**.
